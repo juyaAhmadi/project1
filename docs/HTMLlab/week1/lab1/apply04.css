@@ -1,0 +1,21 @@
+body { background-color: #D9F1C1;
+    color: #000000;
+}
+
+#main { background-color: #F0F9E6;
+        border-radius: 2em;
+       
+        padding: 10px;
+        
+}
+
+img { float: left; 
+    padding-right: 15px;
+}
+
+nav { clear: both; }
+
+footer { text-align: center; }
+
+#outerwrapper { width: 80%;
+                margin: 0 auto 0 auto; }

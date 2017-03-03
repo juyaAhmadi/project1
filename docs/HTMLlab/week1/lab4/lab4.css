@@ -1,0 +1,22 @@
+.outerwrapper { width: 75%;
+    margin: 0 auto 0 auto;
+    
+    padding: 20px;
+    border: solid 15px blue;
+}
+h3 {font-style: Arial;
+    color: blue;
+}
+
+h1 {font-weight: bold;}
+
+.leftcolumn { border-left: solid 5px blue;
+            padding: 5px;
+                
+}
+
+.middleline { width: 100%; 
+            height: 1px;
+            background-color: blue;
+            
+}
